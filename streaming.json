@@ -1,290 +1,299 @@
-{
-  "exportType" : "fusionWidgets",
-  "exportVersion" : 1,
-  "requiredAddons" : [
-    "https:\/\/addon.vantatv.com\/ak_ihDB9rX6a8_UOOqZc4ys3sFiwklGml3D6w557L11NS8\/manifest.json"
-  ],
-  "widgets" : [
-    {
-      "dataSource" : {
-        "kind" : "collection",
-        "payload" : {
-          "items" : [
-            {
-              "dataSources" : [
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "movie::tmdb.discover.movie.disney_movies.mlp0b7wj",
-                    "type" : "movie"
-                  }
-                },
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "series::tmdb.discover.series.disney_shows.mlp0bpq2",
-                    "type" : "series"
-                  }
-                }
-              ],
-              "hideTitle" : true,
-              "id" : "E1BE9543-7897-4C34-BEBE-81140BF49C54",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/lumiere-a.akamaihd.net\/v1\/images\/disney_logo_march_2024_050fef2e.png?region=0%2C0%2C1920%2C1080",
-              "title" : "Disney+"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "movie::tmdb.discover.movie.netflix_movies.mlp0c332",
-                    "type" : "movie"
-                  }
-                },
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "series::tmdb.discover.series.netflix_shows.mlp0cn66",
-                    "type" : "series"
-                  }
-                }
-              ],
-              "hideTitle" : true,
-              "id" : "C8C27A84-88E8-4CC2-B57F-872D4EEB7A50",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/images.ctfassets.net\/y2ske730sjqp\/1aONibCke6niZhgPxuiilC\/2c401b05a07288746ddf3bd3943fbc76\/BrandAssets_Logos_01-Wordmark.jpg?w=940",
-              "title" : "Netflix"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "movie::tmdb.discover.movie.hbo_max_movies.mlp0dgfv",
-                    "type" : "movie"
-                  }
-                },
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "series::tmdb.discover.series.hbo_max_shows.mlp0dxe3",
-                    "type" : "series"
-                  }
-                }
-              ],
-              "hideTitle" : true,
-              "id" : "A2E6510D-284C-4845-8B95-7E61C06370DA",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/i0.wp.com\/www.thewrap.com\/wp-content\/uploads\/2025\/05\/HBO-Max.jpg?fit=1200%2C675&quality=89&ssl=1",
-              "title" : "HBO Max"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "movie::tmdb.discover.movie.hulu_movies.mlp0egrs",
-                    "type" : "movie"
-                  }
-                },
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "series::tmdb.discover.series.hulu_shows.mlp0evqq",
-                    "type" : "series"
-                  }
-                }
-              ],
-              "hideTitle" : true,
-              "id" : "1A444106-6C05-47FD-879C-E8A78F320E30",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/static0.howtogeekimages.com\/wordpress\/wp-content\/uploads\/2022\/11\/Hulu-logo.jpg",
-              "title" : "Hulu"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "movie::tmdb.discover.movie.peacock_movies.mlp0fic5",
-                    "type" : "movie"
-                  }
-                },
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "series::tmdb.discover.series.peacock_shows.mlp0g38v",
-                    "type" : "series"
-                  }
-                }
-              ],
-              "hideTitle" : true,
-              "id" : "E888560C-ACE3-4BD2-8EA8-E64F7F70777B",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/variety.com\/wp-content\/uploads\/2019\/12\/nbcu-peacock.jpg?w=1000&h=563&crop=1",
-              "title" : "Peacock"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "movie::tmdb.discover.movie.prime_video_movies.mlp0gxx3",
-                    "type" : "movie"
-                  }
-                },
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "series::tmdb.discover.series.prime_video_shows.mlp0hnsn",
-                    "type" : "series"
-                  }
-                }
-              ],
-              "hideTitle" : true,
-              "id" : "0FB6447A-70F4-4EDD-8124-4C8685C10E78",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/i.pinimg.com\/736x\/94\/b5\/93\/94b5931daaf3a1ae37970ffc7b210da9.jpg",
-              "title" : "Amazon Prime Video"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "movie::tmdb.discover.movie.paramount_movies.mlp0iio6",
-                    "type" : "movie"
-                  }
-                },
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "series::tmdb.discover.series.paramount_shows.mlp0j6gp",
-                    "type" : "series"
-                  }
-                }
-              ],
-              "hideTitle" : true,
-              "id" : "B8349468-DD25-4FC9-91DB-CB7EE1D56799",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/static.wikia.nocookie.net\/doug\/images\/0\/0f\/Paramount-Plus.webp\/revision\/latest\/scale-to-width-down\/1200?cb=20210426022823",
-              "title" : "Paramount+"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "movie::tmdb.discover.movie.apple_tv_movies.mlp0ndbc",
-                    "type" : "movie"
-                  }
-                },
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "series::tmdb.discover.series.apple_tv_shows.mlp0o153",
-                    "type" : "series"
-                  }
-                }
-              ],
-              "hideTitle" : true,
-              "id" : "3194DFA2-0DD0-4118-84E6-1B79846EC6CD",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/www.tuaw.com\/wp-content\/uploads\/2025\/11\/apple-tv-new-logo-2.jpg",
-              "title" : "Apple TV"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "series::tmdb.discover.series.showmax_shows.mlp0px3i",
-                    "type" : "series"
-                  }
-                },
-                {
-                  "kind" : "addonCatalog",
-                  "payload" : {
-                    "addonId" : "https:\/\/aiometadata.elfhosted.com\/stremio\/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5\/manifest.json",
-                    "catalogId" : "movie::tmdb.discover.movie.showmax_movies.mlp0ovlx",
-                    "type" : "movie"
-                  }
-                }
-              ],
-              "hideTitle" : true,
-              "id" : "80944132-FE15-48BC-8B38-B011E6416A08",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/i.postimg.cc\/L5XNBSnx\/Untitled-design-2.png",
-              "title" : "Showmax"
+[
+   {
+      "backgroundImageURL": "https://lumiere-a.akamaihd.net/v1/images/disney_logo_march_2024_050fef2e.png?region=0%2C0%2C1920%2C1080",
+      "dataSource": {
+         "kind": "addonCatalog",
+         "payload": {
+            "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+            "catalogId": "movie::tmdb.discover.movie.disney_movies.mlp0b7wj",
+            "catalogType": "movie"
+         }
+      },
+      "dataSources": [
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "movie::tmdb.discover.movie.disney_movies.mlp0b7wj",
+               "catalogType": "movie"
             }
-          ]
-        }
+         },
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "series::tmdb.discover.series.disney_shows.mlp0bpq2",
+               "catalogType": "series"
+            }
+         }
+      ],
+      "hideTitle": true,
+      "id": "E1BE9543-7897-4C34-BEBE-81140BF49C54",
+      "layout": "Wide",
+      "name": "Disney+"
+   },
+   {
+      "backgroundImageURL": "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940",
+      "dataSource": {
+         "kind": "addonCatalog",
+         "payload": {
+            "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+            "catalogId": "movie::tmdb.discover.movie.netflix_movies.mlp0c332",
+            "catalogType": "movie"
+         }
       },
-      "id" : "collection.EC28178F-C490-4F81-AC40-11F87B0231C3",
-      "title" : "Streaming",
-      "type" : "collection.row"
-    },
-    {
-      "cacheTTL" : 1800,
-      "dataSource" : {
-        "kind" : "addonCatalog",
-        "payload" : {
-          "addonId" : "https:\/\/addon.vantatv.com\/ak_ihDB9rX6a8_UOOqZc4ys3sFiwklGml3D6w557L11NS8\/manifest.json",
-          "catalogId" : "tv::vantatv-674",
-          "type" : "series"
-        }
+      "dataSources": [
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "movie::tmdb.discover.movie.netflix_movies.mlp0c332",
+               "catalogType": "movie"
+            }
+         },
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "series::tmdb.discover.series.netflix_shows.mlp0cn66",
+               "catalogType": "series"
+            }
+         }
+      ],
+      "hideTitle": true,
+      "id": "C8C27A84-88E8-4CC2-B57F-872D4EEB7A50",
+      "layout": "Wide",
+      "name": "Netflix"
+   },
+   {
+      "backgroundImageURL": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2025/05/HBO-Max.jpg?fit=1200%2C675&quality=89&ssl=1",
+      "dataSource": {
+         "kind": "addonCatalog",
+         "payload": {
+            "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+            "catalogId": "movie::tmdb.discover.movie.hbo_max_movies.mlp0dgfv",
+            "catalogType": "movie"
+         }
       },
-      "id" : "catalog.C2CEE2F7-57A9-4754-B79E-AA7770362641",
-      "presentation" : {
-        "aspectRatio" : "poster",
-        "badges" : {
-          "providers" : false,
-          "ratings" : true
-        },
-        "cardStyle" : "medium"
+      "dataSources": [
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "movie::tmdb.discover.movie.hbo_max_movies.mlp0dgfv",
+               "catalogType": "movie"
+            }
+         },
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "series::tmdb.discover.series.hbo_max_shows.mlp0dxe3",
+               "catalogType": "series"
+            }
+         }
+      ],
+      "hideTitle": true,
+      "id": "A2E6510D-284C-4845-8B95-7E61C06370DA",
+      "layout": "Wide",
+      "name": "HBO Max"
+   },
+   {
+      "backgroundImageURL": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/Hulu-logo.jpg",
+      "dataSource": {
+         "kind": "addonCatalog",
+         "payload": {
+            "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+            "catalogId": "movie::tmdb.discover.movie.hulu_movies.mlp0egrs",
+            "catalogType": "movie"
+         }
       },
-      "title" : "ZA | DSTV  Tv",
-      "type" : "row.classic"
-    },
-    {
-      "cacheTTL" : 1800,
-      "dataSource" : {
-        "kind" : "addonCatalog",
-        "payload" : {
-          "addonId" : "https:\/\/addon.vantatv.com\/ak_ihDB9rX6a8_UOOqZc4ys3sFiwklGml3D6w557L11NS8\/manifest.json",
-          "catalogId" : "tv::vantatv-532",
-          "type" : "series"
-        }
+      "dataSources": [
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "movie::tmdb.discover.movie.hulu_movies.mlp0egrs",
+               "catalogType": "movie"
+            }
+         },
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "series::tmdb.discover.series.hulu_shows.mlp0evqq",
+               "catalogType": "series"
+            }
+         }
+      ],
+      "hideTitle": true,
+      "id": "1A444106-6C05-47FD-879C-E8A78F320E30",
+      "layout": "Wide",
+      "name": "Hulu"
+   },
+   {
+      "backgroundImageURL": "https://variety.com/wp-content/uploads/2019/12/nbcu-peacock.jpg?w=1000&h=563&crop=1",
+      "dataSource": {
+         "kind": "addonCatalog",
+         "payload": {
+            "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+            "catalogId": "movie::tmdb.discover.movie.peacock_movies.mlp0fic5",
+            "catalogType": "movie"
+         }
       },
-      "id" : "catalog.FB77BCC9-C340-473E-B6A2-E8C9ABACC212",
-      "presentation" : {
-        "aspectRatio" : "poster",
-        "badges" : {
-          "providers" : false,
-          "ratings" : true
-        },
-        "cardStyle" : "medium"
+      "dataSources": [
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "movie::tmdb.discover.movie.peacock_movies.mlp0fic5",
+               "catalogType": "movie"
+            }
+         },
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "series::tmdb.discover.series.peacock_shows.mlp0g38v",
+               "catalogType": "series"
+            }
+         }
+      ],
+      "hideTitle": true,
+      "id": "E888560C-ACE3-4BD2-8EA8-E64F7F70777B",
+      "layout": "Wide",
+      "name": "Peacock"
+   },
+   {
+      "backgroundImageURL": "https://i.pinimg.com/736x/94/b5/93/94b5931daaf3a1ae37970ffc7b210da9.jpg",
+      "dataSource": {
+         "kind": "addonCatalog",
+         "payload": {
+            "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+            "catalogId": "movie::tmdb.discover.movie.prime_video_movies.mlp0gxx3",
+            "catalogType": "movie"
+         }
       },
-      "title" : "ZA | SuperSports Tv",
-      "type" : "row.classic"
-    }
-  ]
-}
+      "dataSources": [
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "movie::tmdb.discover.movie.prime_video_movies.mlp0gxx3",
+               "catalogType": "movie"
+            }
+         },
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "series::tmdb.discover.series.prime_video_shows.mlp0hnsn",
+               "catalogType": "series"
+            }
+         }
+      ],
+      "hideTitle": true,
+      "id": "0FB6447A-70F4-4EDD-8124-4C8685C10E78",
+      "layout": "Wide",
+      "name": "Amazon Prime Video"
+   },
+   {
+      "backgroundImageURL": "https://static.wikia.nocookie.net/doug/images/0/0f/Paramount-Plus.webp/revision/latest/scale-to-width-down/1200?cb=20210426022823",
+      "dataSource": {
+         "kind": "addonCatalog",
+         "payload": {
+            "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+            "catalogId": "movie::tmdb.discover.movie.paramount_movies.mlp0iio6",
+            "catalogType": "movie"
+         }
+      },
+      "dataSources": [
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "movie::tmdb.discover.movie.paramount_movies.mlp0iio6",
+               "catalogType": "movie"
+            }
+         },
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "series::tmdb.discover.series.paramount_shows.mlp0j6gp",
+               "catalogType": "series"
+            }
+         }
+      ],
+      "hideTitle": true,
+      "id": "B8349468-DD25-4FC9-91DB-CB7EE1D56799",
+      "layout": "Wide",
+      "name": "Paramount+"
+   },
+   {
+      "backgroundImageURL": "https://www.tuaw.com/wp-content/uploads/2025/11/apple-tv-new-logo-2.jpg",
+      "dataSource": {
+         "kind": "addonCatalog",
+         "payload": {
+            "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+            "catalogId": "movie::tmdb.discover.movie.apple_tv_movies.mlp0ndbc",
+            "catalogType": "movie"
+         }
+      },
+      "dataSources": [
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "movie::tmdb.discover.movie.apple_tv_movies.mlp0ndbc",
+               "catalogType": "movie"
+            }
+         },
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "series::tmdb.discover.series.apple_tv_shows.mlp0o153",
+               "catalogType": "series"
+            }
+         }
+      ],
+      "hideTitle": true,
+      "id": "3194DFA2-0DD0-4118-84E6-1B79846EC6CD",
+      "layout": "Wide",
+      "name": "Apple TV"
+   },
+   {
+      "backgroundImageURL": "https://i.postimg.cc/L5XNBSnx/Untitled-design-2.png",
+      "dataSource": {
+         "kind": "addonCatalog",
+         "payload": {
+            "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+            "catalogId": "series::tmdb.discover.series.showmax_shows.mlp0px3i",
+            "catalogType": "series"
+         }
+      },
+      "dataSources": [
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "series::tmdb.discover.series.showmax_shows.mlp0px3i",
+               "catalogType": "series"
+            }
+         },
+         {
+            "kind": "addonCatalog",
+            "payload": {
+               "addonId": "https://aiometadata.elfhosted.com/stremio/d5b20e22-58c9-4cfb-b4b9-a3493b04eda5/manifest.json",
+               "catalogId": "movie::tmdb.discover.movie.showmax_movies.mlp0ovlx",
+               "catalogType": "movie"
+            }
+         }
+      ],
+      "hideTitle": true,
+      "id": "80944132-FE15-48BC-8B38-B011E6416A08",
+      "layout": "Wide",
+      "name": "Showmax"
+   }
+]
