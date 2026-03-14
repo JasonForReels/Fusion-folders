@@ -1,0 +1,134 @@
+[
+  {
+    "backgroundImageURL" : "https:\/\/deadline.com\/wp-content\/uploads\/2025\/05\/HBO-Max.jpg?crop=228px%2C511px%2C2845px%2C1592px&resize=681%2C383",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/queued-up.app\/api\/WyJhbWMtdHJlbmRpbmctbW92aWUiLCJhbWMtdHJlbmRpbmctc2VyaWVzIiwiYXBwbGUtdHJlbmRpbmctbW92aWUiLCJhcHBsZS10cmVuZGluZy1zZXJpZXMiLCJkaXNuZXktdHJlbmRpbmctbW92aWUiLCJkaXNuZXktdHJlbmRpbmctc2VyaWVzIiwiaGJvLW1heC10cmVuZGluZy1tb3ZpZSIsImhiby1tYXgtdHJlbmRpbmctc2VyaWVzIiwiaHVsdS10cmVuZGluZy1tb3ZpZSIsImh1bHUtdHJlbmRpbmctc2VyaWVzIiwibmV0ZmxpeC10cmVuZGluZy1tb3ZpZSIsIm5ldGZsaXgtdHJlbmRpbmctc2VyaWVzIiwicGFyYW1vdW50LXRyZW5kaW5nLW1vdmllIiwicGFyYW1vdW50LXRyZW5kaW5nLXNlcmllcyIsInBlYWNvY2stdHJlbmRpbmctbW92aWUiLCJwZWFjb2NrLXRyZW5kaW5nLXNlcmllcyIsInByaW1lLXRyZW5kaW5nLW1vdmllIiwicHJpbWUtdHJlbmRpbmctc2VyaWVzIl0\/manifest.json",
+        "catalogId" : "series::hbo-max-trending-series",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/queued-up.app\/api\/WyJhbWMtdHJlbmRpbmctbW92aWUiLCJhbWMtdHJlbmRpbmctc2VyaWVzIiwiYXBwbGUtdHJlbmRpbmctbW92aWUiLCJhcHBsZS10cmVuZGluZy1zZXJpZXMiLCJkaXNuZXktdHJlbmRpbmctbW92aWUiLCJkaXNuZXktdHJlbmRpbmctc2VyaWVzIiwiaGJvLW1heC10cmVuZGluZy1tb3ZpZSIsImhiby1tYXgtdHJlbmRpbmctc2VyaWVzIiwiaHVsdS10cmVuZGluZy1tb3ZpZSIsImh1bHUtdHJlbmRpbmctc2VyaWVzIiwibmV0ZmxpeC10cmVuZGluZy1tb3ZpZSIsIm5ldGZsaXgtdHJlbmRpbmctc2VyaWVzIiwicGFyYW1vdW50LXRyZW5kaW5nLW1vdmllIiwicGFyYW1vdW50LXRyZW5kaW5nLXNlcmllcyIsInBlYWNvY2stdHJlbmRpbmctbW92aWUiLCJwZWFjb2NrLXRyZW5kaW5nLXNlcmllcyIsInByaW1lLXRyZW5kaW5nLW1vdmllIiwicHJpbWUtdHJlbmRpbmctc2VyaWVzIl0\/manifest.json",
+          "catalogId" : "series::hbo-max-trending-series",
+          "catalogType" : "series"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/queued-up.app\/api\/WyJhbWMtdHJlbmRpbmctbW92aWUiLCJhbWMtdHJlbmRpbmctc2VyaWVzIiwiYXBwbGUtdHJlbmRpbmctbW92aWUiLCJhcHBsZS10cmVuZGluZy1zZXJpZXMiLCJkaXNuZXktdHJlbmRpbmctbW92aWUiLCJkaXNuZXktdHJlbmRpbmctc2VyaWVzIiwiaGJvLW1heC10cmVuZGluZy1tb3ZpZSIsImhiby1tYXgtdHJlbmRpbmctc2VyaWVzIiwiaHVsdS10cmVuZGluZy1tb3ZpZSIsImh1bHUtdHJlbmRpbmctc2VyaWVzIiwibmV0ZmxpeC10cmVuZGluZy1tb3ZpZSIsIm5ldGZsaXgtdHJlbmRpbmctc2VyaWVzIiwicGFyYW1vdW50LXRyZW5kaW5nLW1vdmllIiwicGFyYW1vdW50LXRyZW5kaW5nLXNlcmllcyIsInBlYWNvY2stdHJlbmRpbmctbW92aWUiLCJwZWFjb2NrLXRyZW5kaW5nLXNlcmllcyIsInByaW1lLXRyZW5kaW5nLW1vdmllIiwicHJpbWUtdHJlbmRpbmctc2VyaWVzIl0\/manifest.json",
+          "catalogId" : "movie::hbo-max-trending-movie",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "0C4AAA5D-2298-4EC2-9FE7-2FA2BC9645B5",
+    "layout" : "Wide",
+    "name" : "HBO Max"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/static0.cbrimages.com\/wordpress\/wp-content\/uploads\/2025\/11\/paramount-logo.jpg?w=1600&h=900&fit=crop",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/queued-up.app\/api\/WyJhbWMtdHJlbmRpbmctbW92aWUiLCJhbWMtdHJlbmRpbmctc2VyaWVzIiwiYXBwbGUtdHJlbmRpbmctbW92aWUiLCJhcHBsZS10cmVuZGluZy1zZXJpZXMiLCJkaXNuZXktdHJlbmRpbmctbW92aWUiLCJkaXNuZXktdHJlbmRpbmctc2VyaWVzIiwiaGJvLW1heC10cmVuZGluZy1tb3ZpZSIsImhiby1tYXgtdHJlbmRpbmctc2VyaWVzIiwiaHVsdS10cmVuZGluZy1tb3ZpZSIsImh1bHUtdHJlbmRpbmctc2VyaWVzIiwibmV0ZmxpeC10cmVuZGluZy1tb3ZpZSIsIm5ldGZsaXgtdHJlbmRpbmctc2VyaWVzIiwicGFyYW1vdW50LXRyZW5kaW5nLW1vdmllIiwicGFyYW1vdW50LXRyZW5kaW5nLXNlcmllcyIsInBlYWNvY2stdHJlbmRpbmctbW92aWUiLCJwZWFjb2NrLXRyZW5kaW5nLXNlcmllcyIsInByaW1lLXRyZW5kaW5nLW1vdmllIiwicHJpbWUtdHJlbmRpbmctc2VyaWVzIl0\/manifest.json",
+        "catalogId" : "movie::paramount-trending-movie",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/queued-up.app\/api\/WyJhbWMtdHJlbmRpbmctbW92aWUiLCJhbWMtdHJlbmRpbmctc2VyaWVzIiwiYXBwbGUtdHJlbmRpbmctbW92aWUiLCJhcHBsZS10cmVuZGluZy1zZXJpZXMiLCJkaXNuZXktdHJlbmRpbmctbW92aWUiLCJkaXNuZXktdHJlbmRpbmctc2VyaWVzIiwiaGJvLW1heC10cmVuZGluZy1tb3ZpZSIsImhiby1tYXgtdHJlbmRpbmctc2VyaWVzIiwiaHVsdS10cmVuZGluZy1tb3ZpZSIsImh1bHUtdHJlbmRpbmctc2VyaWVzIiwibmV0ZmxpeC10cmVuZGluZy1tb3ZpZSIsIm5ldGZsaXgtdHJlbmRpbmctc2VyaWVzIiwicGFyYW1vdW50LXRyZW5kaW5nLW1vdmllIiwicGFyYW1vdW50LXRyZW5kaW5nLXNlcmllcyIsInBlYWNvY2stdHJlbmRpbmctbW92aWUiLCJwZWFjb2NrLXRyZW5kaW5nLXNlcmllcyIsInByaW1lLXRyZW5kaW5nLW1vdmllIiwicHJpbWUtdHJlbmRpbmctc2VyaWVzIl0\/manifest.json",
+          "catalogId" : "movie::paramount-trending-movie",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/queued-up.app\/api\/WyJhbWMtdHJlbmRpbmctbW92aWUiLCJhbWMtdHJlbmRpbmctc2VyaWVzIiwiYXBwbGUtdHJlbmRpbmctbW92aWUiLCJhcHBsZS10cmVuZGluZy1zZXJpZXMiLCJkaXNuZXktdHJlbmRpbmctbW92aWUiLCJkaXNuZXktdHJlbmRpbmctc2VyaWVzIiwiaGJvLW1heC10cmVuZGluZy1tb3ZpZSIsImhiby1tYXgtdHJlbmRpbmctc2VyaWVzIiwiaHVsdS10cmVuZGluZy1tb3ZpZSIsImh1bHUtdHJlbmRpbmctc2VyaWVzIiwibmV0ZmxpeC10cmVuZGluZy1tb3ZpZSIsIm5ldGZsaXgtdHJlbmRpbmctc2VyaWVzIiwicGFyYW1vdW50LXRyZW5kaW5nLW1vdmllIiwicGFyYW1vdW50LXRyZW5kaW5nLXNlcmllcyIsInBlYWNvY2stdHJlbmRpbmctbW92aWUiLCJwZWFjb2NrLXRyZW5kaW5nLXNlcmllcyIsInByaW1lLXRyZW5kaW5nLW1vdmllIiwicHJpbWUtdHJlbmRpbmctc2VyaWVzIl0\/manifest.json",
+          "catalogId" : "series::paramount-trending-series",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "57F33236-5D8A-4893-BDA5-4B66E38ABF83",
+    "layout" : "Wide",
+    "name" : "Paramount+"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/i.ytimg.com\/vi\/XfCzdc5PmL0\/maxresdefault.jpg",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/queued-up.app\/api\/WyJhbWMtdHJlbmRpbmctbW92aWUiLCJhbWMtdHJlbmRpbmctc2VyaWVzIiwiYXBwbGUtdHJlbmRpbmctbW92aWUiLCJhcHBsZS10cmVuZGluZy1zZXJpZXMiLCJkaXNuZXktdHJlbmRpbmctbW92aWUiLCJkaXNuZXktdHJlbmRpbmctc2VyaWVzIiwiaGJvLW1heC10cmVuZGluZy1tb3ZpZSIsImhiby1tYXgtdHJlbmRpbmctc2VyaWVzIiwiaHVsdS10cmVuZGluZy1tb3ZpZSIsImh1bHUtdHJlbmRpbmctc2VyaWVzIiwibmV0ZmxpeC10cmVuZGluZy1tb3ZpZSIsIm5ldGZsaXgtdHJlbmRpbmctc2VyaWVzIiwicGFyYW1vdW50LXRyZW5kaW5nLW1vdmllIiwicGFyYW1vdW50LXRyZW5kaW5nLXNlcmllcyIsInBlYWNvY2stdHJlbmRpbmctbW92aWUiLCJwZWFjb2NrLXRyZW5kaW5nLXNlcmllcyIsInByaW1lLXRyZW5kaW5nLW1vdmllIiwicHJpbWUtdHJlbmRpbmctc2VyaWVzIl0\/manifest.json",
+        "catalogId" : "series::peacock-trending-series",
+        "catalogType" : "series"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/queued-up.app\/api\/WyJhbWMtdHJlbmRpbmctbW92aWUiLCJhbWMtdHJlbmRpbmctc2VyaWVzIiwiYXBwbGUtdHJlbmRpbmctbW92aWUiLCJhcHBsZS10cmVuZGluZy1zZXJpZXMiLCJkaXNuZXktdHJlbmRpbmctbW92aWUiLCJkaXNuZXktdHJlbmRpbmctc2VyaWVzIiwiaGJvLW1heC10cmVuZGluZy1tb3ZpZSIsImhiby1tYXgtdHJlbmRpbmctc2VyaWVzIiwiaHVsdS10cmVuZGluZy1tb3ZpZSIsImh1bHUtdHJlbmRpbmctc2VyaWVzIiwibmV0ZmxpeC10cmVuZGluZy1tb3ZpZSIsIm5ldGZsaXgtdHJlbmRpbmctc2VyaWVzIiwicGFyYW1vdW50LXRyZW5kaW5nLW1vdmllIiwicGFyYW1vdW50LXRyZW5kaW5nLXNlcmllcyIsInBlYWNvY2stdHJlbmRpbmctbW92aWUiLCJwZWFjb2NrLXRyZW5kaW5nLXNlcmllcyIsInByaW1lLXRyZW5kaW5nLW1vdmllIiwicHJpbWUtdHJlbmRpbmctc2VyaWVzIl0\/manifest.json",
+          "catalogId" : "series::peacock-trending-series",
+          "catalogType" : "series"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/queued-up.app\/api\/WyJhbWMtdHJlbmRpbmctbW92aWUiLCJhbWMtdHJlbmRpbmctc2VyaWVzIiwiYXBwbGUtdHJlbmRpbmctbW92aWUiLCJhcHBsZS10cmVuZGluZy1zZXJpZXMiLCJkaXNuZXktdHJlbmRpbmctbW92aWUiLCJkaXNuZXktdHJlbmRpbmctc2VyaWVzIiwiaGJvLW1heC10cmVuZGluZy1tb3ZpZSIsImhiby1tYXgtdHJlbmRpbmctc2VyaWVzIiwiaHVsdS10cmVuZGluZy1tb3ZpZSIsImh1bHUtdHJlbmRpbmctc2VyaWVzIiwibmV0ZmxpeC10cmVuZGluZy1tb3ZpZSIsIm5ldGZsaXgtdHJlbmRpbmctc2VyaWVzIiwicGFyYW1vdW50LXRyZW5kaW5nLW1vdmllIiwicGFyYW1vdW50LXRyZW5kaW5nLXNlcmllcyIsInBlYWNvY2stdHJlbmRpbmctbW92aWUiLCJwZWFjb2NrLXRyZW5kaW5nLXNlcmllcyIsInByaW1lLXRyZW5kaW5nLW1vdmllIiwicHJpbWUtdHJlbmRpbmctc2VyaWVzIl0\/manifest.json",
+          "catalogId" : "movie::peacock-trending-movie",
+          "catalogType" : "movie"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "A3B8C97C-04FE-4A2C-B361-0DC9D04781F6",
+    "layout" : "Wide",
+    "name" : "Peacock"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/www.macworld.com\/wp-content\/uploads\/2025\/11\/appletv-logo-2025.jpg?quality=50&strip=all&w=1024",
+    "dataSource" : {
+      "kind" : "addonCatalog",
+      "payload" : {
+        "addonId" : "https:\/\/queued-up.app\/api\/WyJhbWMtdHJlbmRpbmctbW92aWUiLCJhbWMtdHJlbmRpbmctc2VyaWVzIiwiYXBwbGUtdHJlbmRpbmctbW92aWUiLCJhcHBsZS10cmVuZGluZy1zZXJpZXMiLCJkaXNuZXktdHJlbmRpbmctbW92aWUiLCJkaXNuZXktdHJlbmRpbmctc2VyaWVzIiwiaGJvLW1heC10cmVuZGluZy1tb3ZpZSIsImhiby1tYXgtdHJlbmRpbmctc2VyaWVzIiwiaHVsdS10cmVuZGluZy1tb3ZpZSIsImh1bHUtdHJlbmRpbmctc2VyaWVzIiwibmV0ZmxpeC10cmVuZGluZy1tb3ZpZSIsIm5ldGZsaXgtdHJlbmRpbmctc2VyaWVzIiwicGFyYW1vdW50LXRyZW5kaW5nLW1vdmllIiwicGFyYW1vdW50LXRyZW5kaW5nLXNlcmllcyIsInBlYWNvY2stdHJlbmRpbmctbW92aWUiLCJwZWFjb2NrLXRyZW5kaW5nLXNlcmllcyIsInByaW1lLXRyZW5kaW5nLW1vdmllIiwicHJpbWUtdHJlbmRpbmctc2VyaWVzIl0\/manifest.json",
+        "catalogId" : "movie::apple-trending-movie",
+        "catalogType" : "movie"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/queued-up.app\/api\/WyJhbWMtdHJlbmRpbmctbW92aWUiLCJhbWMtdHJlbmRpbmctc2VyaWVzIiwiYXBwbGUtdHJlbmRpbmctbW92aWUiLCJhcHBsZS10cmVuZGluZy1zZXJpZXMiLCJkaXNuZXktdHJlbmRpbmctbW92aWUiLCJkaXNuZXktdHJlbmRpbmctc2VyaWVzIiwiaGJvLW1heC10cmVuZGluZy1tb3ZpZSIsImhiby1tYXgtdHJlbmRpbmctc2VyaWVzIiwiaHVsdS10cmVuZGluZy1tb3ZpZSIsImh1bHUtdHJlbmRpbmctc2VyaWVzIiwibmV0ZmxpeC10cmVuZGluZy1tb3ZpZSIsIm5ldGZsaXgtdHJlbmRpbmctc2VyaWVzIiwicGFyYW1vdW50LXRyZW5kaW5nLW1vdmllIiwicGFyYW1vdW50LXRyZW5kaW5nLXNlcmllcyIsInBlYWNvY2stdHJlbmRpbmctbW92aWUiLCJwZWFjb2NrLXRyZW5kaW5nLXNlcmllcyIsInByaW1lLXRyZW5kaW5nLW1vdmllIiwicHJpbWUtdHJlbmRpbmctc2VyaWVzIl0\/manifest.json",
+          "catalogId" : "movie::apple-trending-movie",
+          "catalogType" : "movie"
+        }
+      },
+      {
+        "kind" : "addonCatalog",
+        "payload" : {
+          "addonId" : "https:\/\/queued-up.app\/api\/WyJhbWMtdHJlbmRpbmctbW92aWUiLCJhbWMtdHJlbmRpbmctc2VyaWVzIiwiYXBwbGUtdHJlbmRpbmctbW92aWUiLCJhcHBsZS10cmVuZGluZy1zZXJpZXMiLCJkaXNuZXktdHJlbmRpbmctbW92aWUiLCJkaXNuZXktdHJlbmRpbmctc2VyaWVzIiwiaGJvLW1heC10cmVuZGluZy1tb3ZpZSIsImhiby1tYXgtdHJlbmRpbmctc2VyaWVzIiwiaHVsdS10cmVuZGluZy1tb3ZpZSIsImh1bHUtdHJlbmRpbmctc2VyaWVzIiwibmV0ZmxpeC10cmVuZGluZy1tb3ZpZSIsIm5ldGZsaXgtdHJlbmRpbmctc2VyaWVzIiwicGFyYW1vdW50LXRyZW5kaW5nLW1vdmllIiwicGFyYW1vdW50LXRyZW5kaW5nLXNlcmllcyIsInBlYWNvY2stdHJlbmRpbmctbW92aWUiLCJwZWFjb2NrLXRyZW5kaW5nLXNlcmllcyIsInByaW1lLXRyZW5kaW5nLW1vdmllIiwicHJpbWUtdHJlbmRpbmctc2VyaWVzIl0\/manifest.json",
+          "catalogId" : "series::apple-trending-series",
+          "catalogType" : "series"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "95CD7A3F-4612-4EB9-9882-695D5E01947A",
+    "layout" : "Wide",
+    "name" : "Apple TV"
+  }
+]
